@@ -200,6 +200,7 @@ enum OverlayFlag {
 }
 
 enum ScreenOrientation {
+  unspecified(-1),
   landscape(0),
   portrait(1);
 
