@@ -2,8 +2,6 @@
 
 A new Flutter plugin to display pop ups or screens over other apps in Android even when app is closed or killed.
 
-<a href="https://www.buymeacoffee.com/requiemz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
-
 # Demo
 
 [![Preview](https://github.com/diegohzea/diegohzea/raw/main/overlay_pop_up_demo.gif)](https://github.com/diegohzea/diegohzea/raw/main/overlay_pop_up_demo.gif)
